@@ -1,4 +1,4 @@
-<img src="ythumb.jpeg" alt="ReynaBOT" width="150" height="50">
+<img src="ythumb.jpeg" alt="ReynaBOT" width="150" height="50" align="center">
 
 # ReynaBOT [MD]
 > WhatsApp BOT Multi Mevice
