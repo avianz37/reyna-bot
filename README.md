@@ -20,8 +20,7 @@
 ## ⓘ Cara Pasang & Pakai
 - `git clone` [`<link>`](https://github.com/avianz37/reyna-bot)
 - `cd reyna-bot`
-- `npm install`
-- `npm update`
+- `npm install` > `npm update`
 - `node .`
 - `Scan QR Qode`
 - **Selesai**
