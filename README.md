@@ -1,4 +1,4 @@
-# ReynaBOT [MD] [![Yusuf Expert](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/avianz37/reyna-bot)
+# ReynaBOT [MD] [![Yusuf Expert](https://www.flaticon.com/svg/vstatic/svg/6422/6422213.svg?token=exp=1659699411~hmac=38b9c96b86fcc5c0378fa9017c049e62)](https://github.com/avianz37/reyna-bot)
 > WhatsApp BOT Multi Mevice
 
 # ReynaBOT [MD]
