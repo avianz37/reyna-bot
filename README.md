@@ -17,7 +17,7 @@
 - [Instagram](instagram.com/yusuf.expert)
 - **Thanks**
 
-## Cara Pasang
+## ⓘ Cara Pasang
 ```
 git clone <link>
 cd reyna-bot
