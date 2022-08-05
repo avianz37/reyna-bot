@@ -1,6 +1,4 @@
 <img src="ythumb.jpeg" alt="ReynaBOT">
-<a href="https://github.com/avianz37"><img title="Yusuf" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
 
 # 🌱 〣 ReynaBOT [MD]
 > WhatsApp BOT Multi Mevice
