@@ -19,7 +19,7 @@
 
 ## ⓘ Cara Pasang & Pakai *(Windows)*
 - Buka Command Prompt
-- Lalu ketik `git clone` [`<link>`](https://github.com/avianz37/reyna-bot) tunggu sampai selesai
+- Lalu ketik `git clone` [`<link Repository>`](https://github.com/avianz37/reyna-bot) tunggu sampai selesai
 - Jika selesai, masuk ke folder tadi dengan mengetik `cd` [`<Nama Repository>`](https://github.com/avianz37/reyna-bot)
 - Setelah itu ketik `npm install` dan dilanjutkan dengan `npm update`
 - Ketik `node .`
