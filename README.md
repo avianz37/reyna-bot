@@ -16,7 +16,6 @@
 - `Yusuf Expert`
 - [WhatsApp](wa.me/6283873115706) - *Save nomor Owner*
 - [Instagram](instagram.com/yusuf.expert) - *Don't forget to Follow*
-- **Thanks**
 
 ## ⓘ Cara Pasang
 ```
