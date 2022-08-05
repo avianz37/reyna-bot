@@ -15,4 +15,4 @@ npm install
 npm update
 node .
 ```
-> WhatsApp BOT Multi Mevice
+> Created by Yusuf Expert
