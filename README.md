@@ -8,7 +8,7 @@
 
 ## Cara Pasang
 ```
-- git clone <link>
+git clone <link>
 cd reyna-bot
 npm install
 npm update
