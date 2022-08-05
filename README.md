@@ -1,6 +1,4 @@
-<img src="ythumb.jpeg" alt="ReynaBOT"  align="right" width="150" height="50">
-
-# ReynaBOT [MD]
+# ReynaBOT [MD] <img src="ythumb.jpeg" alt="ReynaBOT"  align="right" width="150" height="50">
 > WhatsApp BOT Multi Mevice
 
 ## Owner
