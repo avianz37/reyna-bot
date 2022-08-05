@@ -8,9 +8,9 @@
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/avianz37) |
-| **No Internet** |[✔️](https://github.com/avianz37) |
-| **Simple** |[✔️](https://github.com/avianz37)) |
+| **Fast Respon** |[✔️](https://github.com/avianz37)|
+| **No Internet** |[✔️](https://github.com/avianz37)|
+| **Simple** |[✔️](https://github.com/avianz37)|
 | **Multi Device** |[✔️](https://github.com/avianz37)|
 ---------
 
