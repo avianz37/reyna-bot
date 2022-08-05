@@ -4,13 +4,13 @@
 > WhatsApp BOT Multi Mevice
 
 #### 💎 Kelebihan
-|Kelebihan|Check|a|
+|Kelebihan|Check|Keterangan|
 |-|-|-|
-|**Simple**|[✔](https://github.com/avianz37)|a|
-|**Multi Device**|[✔](https://github.com/avianz37)|
-|**Fast Respon**|[✔](https://github.com/avianz37)|
-|**On 24 Jam**|[✔](https://github.com/avianz37)|
-|**No Internet**|[✔](https://github.com/avianz37)|
+|**Simple**|[✔](https://github.com/avianz37)|*No Encript*|
+|**Multi Device**|[✔](https://github.com/avianz37)|*Support WA Terbaru*|
+|**Fast Respon**|[✔](https://github.com/avianz37)|*Tidak perlu Internet kenceng*|
+|**On 24 Jam**|[✔](https://github.com/avianz37)|*Support Deploy*|
+|**No Internet**|[✔](https://github.com/avianz37)|*Bisa ditinggal Tidur*|
 
 ## ✆ Owner
 - `Yusuf Expert`
