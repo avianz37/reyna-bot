@@ -14,11 +14,11 @@
 
 ## ✆ Owner
 - `Yusuf Expert`
-- [WhatsApp](wa.me/6283873115706) - *Save nomor Owner*
-- [Instagram](instagram.com/yusuf.expert) - *Don't forget to Follow*
+- [`WhatsApp`](wa.me/6283873115706) - *Save nomor Owner*
+- [`Instagram`](instagram.com/yusuf.expert) - *Don't forget to Follow*
 
 ## ⓘ Cara Pasang
-- `git clone` [`\<link\>`](https://github.com/avianz37/reyna-bot)
+- `git clone` [`<link>`](https://github.com/avianz37/reyna-bot)
 - `cd reyna-bot`
 - `npm install`
 - `npm update`
