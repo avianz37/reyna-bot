@@ -2,8 +2,8 @@
 > WhatsApp BOT Multi Mevice
 
 ## Owner
-1. - `Yusuf Expert` - Owner
-2. - [IG: @yusuf.expert](instagram.com/yusuf.expert) - IG Owner
+1. - `Yusuf Expert` - Owner.
+2. - [IG: @yusuf.expert](instagram.com/yusuf.expert) - IG Owner.
 3. - **Thanks**
 
 ## Cara Pasang
