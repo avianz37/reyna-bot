@@ -6,10 +6,11 @@
 #### 💎 Kelebihan
 |Kelebihan|Check|a|
 |-|-|-|
-|**Fast Respon**|[✔](https://github.com/avianz37)|a|
-|**No Internet**|[✔](https://github.com/avianz37)|
-|**Simple**|[✔](https://github.com/avianz37)|
+|**Simple**|[✔](https://github.com/avianz37)|a|
 |**Multi Device**|[✔](https://github.com/avianz37)|
+|**Fast Respon**|[✔](https://github.com/avianz37)|
+|**On 24 Jam**|[✔](https://github.com/avianz37)|
+|**No Internet**|[✔](https://github.com/avianz37)|
 
 ## ✆ Owner
 - `Yusuf Expert`
