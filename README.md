@@ -8,10 +8,10 @@
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️] |
-| **No Internet** |[✔️](https://github.com/kannachann) |
-| **Simple** |[✔️](https://github.com/kannachann) |
-| **Multi Device** |[✔️](https://github.com/kannachann) |
+| **Fast Respon** |[✔️](https://github.com/avianz37) |
+| **No Internet** |[✔️](https://github.com/avianz37) |
+| **Simple** |[✔️](https://github.com/avianz37)) |
+| **Multi Device** |[✔️](https://github.com/avianz37)|
 ---------
 
 ## Owner
