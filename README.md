@@ -1,13 +1,13 @@
 # ReynaBOT [MD]
 > WhatsApp BOT Multi Mevice
 
-- ## Owner
+## Owner
 - `Yusuf Expert`
 - [WhatsApp](wa.me/6283873115706)
 - [Instagram](instagram.com/yusuf.expert)
 - **Thanks**
 
-- ## Cara Pasang
+## Cara Pasang
 ```
 git clone <link>
 cd reyna-bot
