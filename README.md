@@ -18,7 +18,7 @@
 - [Instagram](instagram.com/yusuf.expert) - *Don't forget to Follow*
 
 ## ⓘ Cara Pasang
-- `git clone <link>`
+- `git clone <[WhatsApp](wa.me/6283873115706)>`
 - `cd reyna-bot`
 - `npm install`
 - `npm update`
