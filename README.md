@@ -17,12 +17,13 @@
 - [`WhatsApp`](wa.me/6283873115706) - *Save nomor Owner*
 - [`Instagram`](instagram.com/yusuf.expert) - *Don't forget to Follow*
 
-## ⓘ Cara Pasang & Pakai
-- `git clone` [`<link>`](https://github.com/avianz37/reyna-bot)
-- `cd reyna-bot`
-- `npm install` > `npm update`
-- `node .`
-- `Scan QR Qode`
+## ⓘ Cara Pasang & Pakai *(Windows)*
+- Buka Command Prompt
+- Lalu ketik `git clone` [`<link>`](https://github.com/avianz37/reyna-bot) tunggu sampai selesai
+- Jika selesai, masuk ke folder tadi dengan mengetik `cd` [`<Nama Repository>`](https://github.com/avianz37/reyna-bot)
+- Setelah itu ketik `npm install` dan dilanjutkan dengan `npm update`
+- Ketik `node .`
+- Scan QR Qode
 - **Selesai**
 
 > Created by Yusuf Expert
