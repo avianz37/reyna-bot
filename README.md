@@ -24,5 +24,6 @@
 - `npm update`
 - `node .`
 
-> Created by Yusuf Expert >
-> 2022 © Yusuf >
+> Created by Yusuf Expert
+
+> 2022 © Yusuf
