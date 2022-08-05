@@ -5,7 +5,7 @@
 
 #### ☑ Kelebihan
 |Kelebihan|Check|Keterangan|
--
+|-|
 |**Simple**|[✔](https://github.com/avianz37)|*No Encript*|
 |**Multi Device**|[✔](https://github.com/avianz37)|*Support WA Terbaru*|
 |**Fast Respon**|[✔](https://github.com/avianz37)|*Tidak perlu Internet kenceng*|
