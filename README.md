@@ -2,9 +2,9 @@
 > WhatsApp BOT Multi Mevice
 
 ## Owner
-1. - `Yusuf Expert` - Owner.
-2. - [IG: @yusuf.expert](instagram.com/yusuf.expert) - IG Owner.
-3. - **Thanks**
+- `Yusuf Expert` - Owner.
+- [IG: @yusuf.expert](instagram.com/yusuf.expert) - IG Owner.
+- **Thanks**
 
 ## Cara Pasang
 ```
@@ -14,4 +14,3 @@ npm install
 npm update
 node .
 ```
--
