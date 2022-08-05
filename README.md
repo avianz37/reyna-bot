@@ -5,7 +5,7 @@
 # ReynaBOT [MD]
 > WhatsApp BOT Multi Mevice
 
-## Kelebihan
+#### Kelebihan
 |Kelebihan|Check|
 |--------|--------|
 |**Fast Respon**|[✔️](https://github.com/avianz37)|
