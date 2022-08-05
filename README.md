@@ -3,7 +3,7 @@
 # 🌱 〣 ReynaBOT [MD]
 > WhatsApp BOT Multi Mevice
 
-#### ♨ Kelebihan
+#### ▢ Kelebihan
 |Kelebihan|Check|Keterangan|
 |-|-|-|
 |**Simple**|[✔](https://github.com/avianz37)|*No Encript*|
