@@ -4,9 +4,9 @@
 > WhatsApp BOT Multi Mevice
 
 #### 💎 Kelebihan
-|Kelebihan|Check|
-|-|-|
-|**Fast Respon**|[✔](https://github.com/avianz37)|
+|Kelebihan|Check|a|
+|-|-|-|
+|**Fast Respon**|[✔](https://github.com/avianz37)|a|
 |**No Internet**|[✔](https://github.com/avianz37)|
 |**Simple**|[✔](https://github.com/avianz37)|
 |**Multi Device**|[✔](https://github.com/avianz37)|
