@@ -1,4 +1,4 @@
-# ReynaBOT [MD] [![Yusuf Expert](https://cdn-icons-png.flaticon.com/128/3916/3916699.png)](https://github.com/avianz37/reyna-bot)
+# ReynaBOT [MD]
 > WhatsApp BOT Multi Mevice
 
 ## Owner
