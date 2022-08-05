@@ -3,7 +3,8 @@
 
 ## Owner
 - `Yusuf Expert`
-- [IG: @yusuf.expert](instagram.com/yusuf.expert)
+- [Instagram](instagram.com/yusuf.expert)
+- [WhatsApp](wa.me/6283873115706)
 - **Thanks**
 
 ## Cara Pasang
