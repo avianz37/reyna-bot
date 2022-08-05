@@ -1,4 +1,4 @@
-- # - ReynaBOT [MD]
+# - ReynaBOT [MD]
 > WhatsApp BOT Multi Mevice
 
 ## Owner
