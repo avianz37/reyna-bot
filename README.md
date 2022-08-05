@@ -18,7 +18,7 @@
 - [Instagram](instagram.com/yusuf.expert) - *Don't forget to Follow*
 
 ## ⓘ Cara Pasang
-- `git clone` [\<link\>](https://github.com/avianz37/reyna-bot)
+- `git clone` [`\<link\>`](https://github.com/avianz37/reyna-bot)
 - `cd reyna-bot`
 - `npm install`
 - `npm update`
