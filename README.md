@@ -18,10 +18,10 @@
 - [Instagram](instagram.com/yusuf.expert) - *Don't forget to Follow*
 
 ## ⓘ Cara Pasang
-`git clone <link>`
-`cd reyna-bot`
-`npm install`
-`npm update`
-`node .`
+- `git clone <link>`
+- `cd reyna-bot`
+- `npm install`
+- `npm update`
+- `node .`
 
 > Created by Yusuf Expert
