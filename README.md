@@ -8,10 +8,9 @@
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/kannachann) |
+| **Fast Respon** |[✔️] |
 | **No Internet** |[✔️](https://github.com/kannachann) |
 | **Simple** |[✔️](https://github.com/kannachann) |
-| **Button template** |[✔️](https://github.com/kannachann) |
 | **Multi Device** |[✔️](https://github.com/kannachann) |
 ---------
 
