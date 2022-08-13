@@ -1,0 +1,24 @@
+{
+  "name": "reyna-bot",
+  "version": "X BOT",
+  "description": "Created by Yusuf",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "baileys": "npm i @adiwajshing/baileys",
+    "cfonts": "npm i cfonts",
+    "del": "node del.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "multi device"
+  ],
+  "author": "Yusuf",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.3.0",
+    "cfonts": "^3.1.1"
+  }
+}
