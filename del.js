@@ -1,7 +1,19 @@
 import fs from 'fs'
-function del(i){try{fs.unlinkSync(i);
-console.log('Menghapus file:',i);
-}catch(err){console.error('File sudah dihapus')}};
-await del('session.json');
-await del('package-lock.json');
-await del('yarn.lock');
+import cfonts from 'cfonts';
+const { say } = cfonts
+import'./config.js'
+
+function del(i){
+try{fs.unlinkSync(i);
+console.log(`Menghapus file: ${i}`);
+}catch(err){
+console.error(`${botname}: File ${i} sudah dihapus`);
+}};
+
+del('session.json');
+del('package-lock.json');
+del('yarn.lock');
+say(`${botname}: Selesai...`,{
+font:'console',
+align:'left',
+colors:['green']});

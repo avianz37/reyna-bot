@@ -3,12 +3,12 @@
   "version": "X BOT",
   "description": "Created by Yusuf",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "baileys": "npm i @adiwajshing/baileys",
     "cfonts": "npm i cfonts",
+    "nodemon": "npm install -g nodemon",
     "del": "node del.js",
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "keywords": [
     "whatsapp",
@@ -18,7 +18,7 @@
   "author": "Yusuf",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.3.0",
+    "@adiwajshing/baileys": "^4.4.0",
     "cfonts": "^3.1.1"
   }
 }
